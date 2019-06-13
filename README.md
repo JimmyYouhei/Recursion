@@ -12,7 +12,7 @@ If you use IntelliJ IDEA use new -> Project From Version Control -> Git and past
 -	Recursion interface is fully written with method: 
     -	factorialHeadRecursion(int number): calculate the factorial of the number given and using head Recursion
     -	factorialTailRecursion(int number): like above but using tail Recursion
-    -	printLinkedList(LinkedList<Integer> linkedList): print out all elements of a int Linked List
+    -	printLinkedList(LinkedList<Integer> linkedList): print out all elements of an int Linked List
     -	printLinkedListReverse(LinkedList<Integer> linkedList): like above but in reverse order 
     -	greatestCommonDivisor(int number1 , int number2): Euclid greatest common divisor algorithm for 2 number given
     -	decimalToBinary(int decimal): convert the decimal number to a binary string 
